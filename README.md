@@ -5,7 +5,17 @@ REDU stands for REkreasi eDUkasi in Bahasa. REDU is a platform for people to sha
 
 ## SETUP
 
+### yarn :
+yarn install
+
 yarn start --reset-cache
+
+npx react-native run-android
+
+### npm :
+npm install
+
+npm start --reset-cache
 
 npx react-native run-android
 
